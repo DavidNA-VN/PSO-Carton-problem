@@ -16,11 +16,6 @@ Gọi các kích thước:
 - `W`: chiều rộng  
 - `H`: chiều cao  
 
-Ràng buộc:  
-\[
-L \cdot W \cdot H = V
-\]
-
 Diện tích bề mặt thùng:  
 \[
 S = 2(LW + LH + WH)
