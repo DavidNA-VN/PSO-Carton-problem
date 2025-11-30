@@ -44,28 +44,8 @@ Với bài toán này, PSO cho kết quả **rất chính xác** và thậm chí
 
 ---
 
-## ⭐ 3. Ý tưởng giải quyết
 
-Ta tối ưu **hai biến**:  
-\[
-x = (L, W)
-\]
-
-Còn chiều cao:
-\[
-H = \frac{V}{L \cdot W}
-\]
-
-Hàm mục tiêu:
-\[
-f(L, W) = 2(LW + L\frac{V}{LW} + W\frac{V}{LW})
-\]
-
-PSO sẽ cập nhật các giá trị `(L, W)` để giảm dần diện tích `S`.
-
----
-
-## ⭐ 4. Cách chạy chương trình
+## ⭐ 3. Cách chạy chương trình
 
 ### ✔ Yêu cầu
 - Python 3.8+
